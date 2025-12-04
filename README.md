@@ -29,8 +29,6 @@
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-![snake gif](https://github.com/AlexanderGrigoryan/AlexanderGrigoryan/blob/output/github-contribution-grid-snake.gif)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexanderGrigoryan&show_icons=true&theme=dark&text_color=FFFFFF&locale=en&layout=compact" alt="AlexanderGrigoryan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexanderGrigoryan&show_icons=true&theme=dark&text_color=FFFFFF&locale=en" alt="AlexanderGrigoryan" /></p>
