@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Grigoryan</h1>
 <h3 align="center">Software Engineer from Alicante, Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlexanderGrigoryan" alt="AlexanderGrigoryan" /></a> </p>
-
 - 🌱 Graduated from BitCamp **https://www.bitcamp.ge/**
 
 - 👨‍💻 All of my projects are available at [AlexanderGrigoryan](https://github.com/AlexanderGrigoryan)
