@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Grigoryan</h1>
-<h3 align="center">Software Engineer from Georgia</h3>
+<h3 align="center">Software Engineer from Alicante, Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexanderGrigoryanli&label=Profile%20views&color=3f5427&style=plastic" alt="AlexanderGrigoryan" /> </p>
 
