@@ -63,5 +63,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&theme=dark" alt="Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderGrigoryan&show_icons=true&theme=dark" alt="AlexanderGrigoryan GitHub Stats" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&" alt="AlexanderGrigoryan" /></p>
 </p>
