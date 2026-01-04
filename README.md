@@ -32,8 +32,8 @@
 <h3 align="left">🧠 State Management & Data Fetching:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactquery/reactquery-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand-logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/react-query/react-query-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/bear.png" width="40" height="40"/>
 </p>
 
 <h3 align="left">🎨 Styling & Design:</h3>
@@ -48,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">🗄️ Databases:</h3>
@@ -63,5 +63,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&theme=dark" alt="Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderGrigoryan&show_icons=true&theme=dark&hide_border=false" alt="Commit Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderGrigoryan&show_icons=true&theme=dark" alt="AlexanderGrigoryan GitHub Stats" />
 </p>
