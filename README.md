@@ -61,7 +61,6 @@
 <h3 align="left">📊 GitHub Statistics:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&theme=dark" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderGrigoryan&theme=dracula" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexanderGrigoryan&theme=dracula&utcOffset=1" alt="Productive Time" />
+  <br/><br/>
+  <img src="http://ghchart.rshah.org/AlexanderGrigoryan" alt="AlexanderGrigoryan's Github Chart" />
 </p>
