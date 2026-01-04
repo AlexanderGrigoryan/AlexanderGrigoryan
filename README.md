@@ -33,7 +33,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/react-query/react-query-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/bear.png" width="40" height="40"/>
+  <img src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">🎨 Styling & Design:</h3>
