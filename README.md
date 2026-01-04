@@ -3,12 +3,12 @@
 
 <p align="center">
   <a href="https://github.com/AlexanderGrigoryan?tab=repositories">👨‍💻 View My Projects</a> • 
-  <a href="https://www.linkedin.com/in/alexander-grigoryan/">📫 Contact Me</a>
+  <a href="https://www.linkedin.com/in/alexisgrigoryan">📫 Contact Me</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alexander-grigoryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexisgrigoryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <hr />
@@ -62,6 +62,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&theme=dark" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderGrigoryan&layout=compact&theme=dark&v=2" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderGrigoryan&show_icons=true&theme=dark&v=2" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexanderGrigoryan&theme=dracula" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlexanderGrigoryan&theme=dracula&utcOffset=1" alt="Productive Time" />
 </p>
