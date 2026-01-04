@@ -2,7 +2,6 @@
 <h3 align="center">Front-end React Developer from Alicante, Spain</h3>
 
 <p align="center">
-  <a href="https://www.bitcamp.ge/">🌱 Graduated from BitCamp</a> • 
   <a href="https://github.com/AlexanderGrigoryan?tab=repositories">👨‍💻 View My Projects</a> • 
   <a href="https://www.linkedin.com/in/alexander-grigoryan/">📫 Contact Me</a>
 </p>
@@ -33,7 +32,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/bear.png?v=1" width="40" height="40"/>
+  <img src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">🎨 Styling & Design:</h3>
