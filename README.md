@@ -53,4 +53,15 @@
 
 <h3 align="left">🗄️ Databases:</h3>
 <p align="left">
-  <img src="
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
+
+<hr />
+
+<h3 align="left">📊 GitHub Statistics:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&theme=dark" alt="Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderGrigoryan&show_icons=true&theme=dark&hide_border=false" alt="Commit Statistics" />
+</p>
