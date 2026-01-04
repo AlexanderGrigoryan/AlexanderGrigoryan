@@ -61,6 +61,4 @@
 <h3 align="left">📊 GitHub Statistics:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&theme=dark" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderGrigoryan&show_icons=true&theme=dark&v=1" alt="AlexanderGrigoryan GitHub Stats" />
 </p>
