@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from Alicante, Spain</h3>
 
 <p align="center">
-  <a href="https://github.com/AlexanderGrigoryan">🌱 Graduated from BitCamp</a> • 
+  <a href="https://www.bitcamp.ge/">🌱 Graduated from BitCamp</a> • 
   <a href="https://github.com/AlexanderGrigoryan?tab=repositories">👨‍💻 View My Projects</a> • 
   <a href="https://www.linkedin.com/in/alexander-grigoryan/">📫 Contact Me</a>
 </p>
@@ -25,15 +25,15 @@
 <h3 align="left">⚛️ Frameworks & Libraries:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
 </p>
 
 <h3 align="left">🧠 State Management & Data Fetching:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactquery/reactquery-plain.svg" alt="reactquery" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/zustand.svg" alt="zustand" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactquery/reactquery-original.svg" alt="reactquery" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zustand/zustand-original.svg" alt="zustand" width="40" height="40"/>
 </p>
 
 <h3 align="left">🎨 Styling & Design:</h3>
@@ -63,11 +63,6 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&theme=dark" alt="AlexanderGrigoryan Streak" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderGrigoryan&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<h3 align="left">🚀 Most Used Repositories:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderGrigoryan&repo=Your-Best-Repo-Name-Here&theme=dark" />
 </p>
