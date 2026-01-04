@@ -16,52 +16,54 @@
 
 <h3 align="left">🌐 Frontend Core & Languages:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">⚛️ Frameworks & Libraries:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">🧠 State Management & Data Fetching:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/redux.png" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/reactquery.svg" width="40" height="40" style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(328deg) brightness(118%) contrast(119%);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactquery/reactquery-original.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/zustand.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">🎨 Styling & Design:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg" alt="styled-components" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">⚙️ Tools, DevOps & Testing:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/cypress.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">🗄️ Databases:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
 <hr />
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&theme=radical" alt="AlexanderGrigoryan Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&theme=dark" alt="Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderGrigoryan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderGrigoryan&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderGrigoryan&layout=compact&theme=dark" alt="Top Languages" />
 </p>
