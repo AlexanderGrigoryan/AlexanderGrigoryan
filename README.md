@@ -2,13 +2,14 @@
 <h3 align="center">Front-end React Developer from Alicante, Spain</h3>
 
 <p align="center">
+  <a href="https://www.bitcamp.ge/">🌱 Graduated from BitCamp</a> • 
   <a href="https://github.com/AlexanderGrigoryan?tab=repositories">👨‍💻 View My Projects</a> • 
-  <a href="https://www.linkedin.com/in/alexisgrigoryan">📫 Contact Me</a>
+  <a href="https://www.linkedin.com/in/alexander-grigoryan/">📫 Contact Me</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alexisgrigoryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexander-grigoryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
 <hr />
@@ -31,7 +32,7 @@
 <h3 align="left">🧠 State Management & Data Fetching:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/react-query/react-query-icon.svg" width="40" height="40"/>
   <img src="https://hexmos.com/freedevtools/svg_icons/zustand/zustand-original.svg" width="40" height="40"/>
 </p>
 
@@ -61,16 +62,6 @@
 <h3 align="left">📊 GitHub Statistics:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&theme=dark" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderGrigoryan&show_icons=true&theme=dark" alt="Commit Stats" />
-</p>
-
-<h3 align="left">🏆 Pinned Projects:</h3>
-<p align="center">
-  <a href="https://github.com/AlexanderGrigoryan/Interactive-Comments-Section">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderGrigoryan&repo=Interactive-Comments-Section&theme=dark" alt="Interactive Comments" />
-  </a>
-  <a href="https://github.com/AlexanderGrigoryan/Planets-Fact-Site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderGrigoryan&repo=Planets-Fact-Site&theme=dark" alt="Planets Fact Site" />
-  </a>
+  <br/><br/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&" alt="AlexanderGrigoryan" /></p>
 </p>
