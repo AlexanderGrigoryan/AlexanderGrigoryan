@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">🗄️ Databases:</h3>
@@ -61,4 +61,16 @@
 <h3 align="left">📊 GitHub Statistics:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderGrigoryan&theme=dark" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderGrigoryan&show_icons=true&theme=dark" alt="Commit Stats" />
+</p>
+
+<h3 align="left">🏆 Pinned Projects:</h3>
+<p align="center">
+  <a href="https://github.com/AlexanderGrigoryan/Interactive-Comments-Section">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderGrigoryan&repo=Interactive-Comments-Section&theme=dark" alt="Interactive Comments" />
+  </a>
+  <a href="https://github.com/AlexanderGrigoryan/Planets-Fact-Site">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexanderGrigoryan&repo=Planets-Fact-Site&theme=dark" alt="Planets Fact Site" />
+  </a>
 </p>
